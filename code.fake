@@ -1,0 +1,3 @@
+This line allows the user to log in, but it's insecure.
+If we were to "generate a new user token" we would do it below.
+(like here maybe)
